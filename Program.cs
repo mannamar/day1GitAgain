@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 // Just to double check we threw in this comment
 // New new new everything is new!
+Console.WriteLine("I got a new haircut");
+// Lookin fresh homie
